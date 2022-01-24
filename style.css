@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 25rem;
+  background-color: rgb(24, 24, 24);
+}
+#about {
+  padding-top: 7rem;
+  background-color: rgb(0, 0, 0);
+}
+#waifus {
+  background-color: rgb(24, 24, 24);
+}
+#contact {
+  background-color: rgb(0, 0, 0);
+}
+section {
+  padding-top: 5rem;
+}
